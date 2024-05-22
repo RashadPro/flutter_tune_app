@@ -1,4 +1,4 @@
-# tune_app
+# Tune App
 <p>
   🎵📱 Exciting News for Flutter Developers! 📱🎵
 Are you looking to add some melody to your Flutter applications? Look no further! We're thrilled to introduce you to the audioplayers package, your go-to solution for integrating audio playback functionalities seamlessly into your Flutter projects.🎵📱
